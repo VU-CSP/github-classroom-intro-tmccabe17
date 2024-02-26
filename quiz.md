@@ -15,7 +15,7 @@ Q1. Which statement about GitHub Classroom is true?
 3. GitHub Classroom is a website that provides online courses to learn about GitHub.
 4. GitHub Classroom is developed by 3rd party developers but uses the GitHub API to integrate into GitHub.
 
-Answer: 3
+Answer: 2
 
 ------
 
@@ -59,4 +59,4 @@ Q5. Pull requests provide a mechanism to request which git action?
 3. merge
 4. push
 
-Answer: 2
+Answer: 3
